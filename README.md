@@ -5,4 +5,4 @@ Edit in Atom code editor.
 GitHub editor.
 Making another change in Atom.
 Yet again in GitHub.
-This is a BRANCH in Atom.
+This is a NEW BRANCH in Atom.
