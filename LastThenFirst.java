@@ -2,6 +2,7 @@
  * Program: LastThenFirst
  * Date: July 6, 2020
  * Programmer: Andy Hicks
+ * Imported in VSCode July 14
  */
 
 import java.util.Scanner;
