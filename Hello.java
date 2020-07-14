@@ -4,7 +4,7 @@ public class Hello {
   {
 
     System.out.println("Hello BIG & SMALL world!!!!");
-    System.out.println("Oh my!");
+    System.out.println("Oh my goodness!");
 
   }
 
